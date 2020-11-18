@@ -49,6 +49,7 @@
     "webpackbar": "^4.0.0"
   },
   "dependencies": {
+    "@babel/polyfill": "^7.12.1",
     "bootstrap.native": "^3.0.13",
     "core-js": "^3.6.5",
     "handlebars": "^4.7.6"
